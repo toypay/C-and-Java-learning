@@ -1,11 +1,9 @@
-Problem :get the computer to do something
-
+"""problem :get the computer to do something
 Target User: Me
-
 Target System: Python
-
 Interface: simple botton
-
+#fff
 Funtional requirements:IDK
-
-Maintainer:tonypang1j20@gmail.com
+#sub to qTpi
+Maintainer:tonypang1j20@gmail.com  """
+print("Hellow World!")
