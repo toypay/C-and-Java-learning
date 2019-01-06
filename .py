@@ -14,3 +14,4 @@ print(pewdiepie,"pewdiepie")
 print(世界最可愛)
 youtube="subs to pewdiepie"
 print(youtube)
+print("\tfairy\n\tyellow\n\tice")
